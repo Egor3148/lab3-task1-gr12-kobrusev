@@ -11,6 +11,7 @@
 // Merges two strings with equal length.
 // Takes two argument strings as const char*.
 // Returns merged string as char*.
+// Returns nullptr in case of error.
 // Result contains the first string chars on the even positions
 //and the second string chars on the odd positions.
 //
