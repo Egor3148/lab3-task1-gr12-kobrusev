@@ -5,6 +5,8 @@
 // (declared in stringMerger.h)
 //
 
+#include <stdlib.h>
+#include <string.h>
 #include "merger.h"
 
 char* mergeStrings(const char* str1, const char* str2)
@@ -12,7 +14,7 @@ char* mergeStrings(const char* str1, const char* str2)
   // srguments validation
   if(strlen(str1) != strlen(str2))
   {
-    return nullptr;
+    return NULL;
   }
 
   // allocate memory for the result

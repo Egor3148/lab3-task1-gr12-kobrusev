@@ -27,6 +27,6 @@ int main(int argc, char **argv) {
   //--------------Freeing--------------------
   free(result);
 
-  //system("PAUSE");
+  system("PAUSE");
   return 0;
 }
