@@ -15,7 +15,7 @@ int main(int argc, char **argv) {
 
   //--------------Processing----------------
 
-  char *result = mergeStrings(argv[1], argv[2]); // merging result
+  char* result = mergeStrings(argv[1], argv[2]); // merging result
   if (result == NULL) {
     printf("Error: strings are not of equal length.\n");
     return 2;
