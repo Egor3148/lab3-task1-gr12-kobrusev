@@ -1,10 +1,10 @@
 # Overview
 
-It is public template of assignment `"labrabota 3"` for FPMI students
+This is an edition of public template `"labrabota 3"` for FAMCS students
 
 # Usage
 
-Please, edit README and add some details, as instance **{add your last name, first name and group number}**.
+This edition is used by **Kobrusev G. P. Group 12**.
 
 # Building
 
